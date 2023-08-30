@@ -4,7 +4,7 @@ public:
         
         for(int i=0;i<s.size();i++){
             if(isdigit(s[i])){
-              s[i]=s[i]-48+(int)s[i-1];
+              s[i]=s[i]-48+s[i-1];
             }
             
         }
