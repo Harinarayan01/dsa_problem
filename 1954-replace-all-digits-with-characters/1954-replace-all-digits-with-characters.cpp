@@ -2,12 +2,16 @@ class Solution {
 public:
     string replaceDigits(string s) {
         
-        for(int i=0;i<s.size();i++){
-            if(isdigit(s[i])){
-              s[i]=(int)s[i]-48+(int)s[i-1];
-            }
-            
-        }
-        return s;
+      int n=s.length();
+      string ans=""; 
+      for(int i=0;i<n;i++){
+          if(i%2==1){
+              ans+=char(s[i]-48+s[i-1]);
+          }
+          else{
+              ans+=s[i];
+          }
+      }
+      return ans;
     }
 };
