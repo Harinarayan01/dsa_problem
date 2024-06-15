@@ -1,7 +1,7 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_set<char>st;
+         unordered_set<char>st;
         int ans=0;
         int j=0;
         
@@ -10,7 +10,7 @@ public:
         while(i<n && j<n){
             if(st.find(s[j])==st.end()){
                 st.insert(s[j++]);
-            ans=max(ans,j-i);
+                ans=max(ans,j-i);
 
             }
             else{
