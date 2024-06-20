@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Harinarayan01/dsa_problem/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Harinarayan01/dsa_problem/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/Harinarayan01/dsa_problem/tree/master/0283-move-zeroes) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harinarayan01/dsa_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Harinarayan01/dsa_problem/tree/master/0283-move-zeroes) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harinarayan01/dsa_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # String
 |  |
 | ------- |
@@ -32,3 +34,11 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harinarayan01/dsa_problem/tree/master/0003-longest-substring-without-repeating-characters) |
+# Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harinarayan01/dsa_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+# Sorting
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harinarayan01/dsa_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
