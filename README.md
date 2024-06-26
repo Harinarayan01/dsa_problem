@@ -42,3 +42,7 @@
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harinarayan01/dsa_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+# Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Harinarayan01/dsa_problem/tree/master/1908-recyclable-and-low-fat-products) |
