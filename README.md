@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harinarayan01/dsa_problem/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Harinarayan01/dsa_problem/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Harinarayan01/dsa_problem/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/Harinarayan01/dsa_problem/tree/master/0283-move-zeroes) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harinarayan01/dsa_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -24,6 +25,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Harinarayan01/dsa_problem/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Harinarayan01/dsa_problem/tree/master/0283-move-zeroes) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harinarayan01/dsa_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # String
