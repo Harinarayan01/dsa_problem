@@ -56,4 +56,5 @@
 |  |
 | ------- |
 | [1258-article-views-i](https://github.com/Harinarayan01/dsa_problem/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/Harinarayan01/dsa_problem/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
