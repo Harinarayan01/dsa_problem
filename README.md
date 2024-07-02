@@ -56,5 +56,6 @@
 |  |
 | ------- |
 | [1258-article-views-i](https://github.com/Harinarayan01/dsa_problem/tree/master/1258-article-views-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Harinarayan01/dsa_problem/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Harinarayan01/dsa_problem/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
