@@ -61,4 +61,20 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Harinarayan01/dsa_problem/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Harinarayan01/dsa_problem/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Harinarayan01/dsa_problem/tree/master/1827-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Harinarayan01/dsa_problem/tree/master/2502-sort-the-people) |
+## Hash Table
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Harinarayan01/dsa_problem/tree/master/2502-sort-the-people) |
+## String
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Harinarayan01/dsa_problem/tree/master/2502-sort-the-people) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Harinarayan01/dsa_problem/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
