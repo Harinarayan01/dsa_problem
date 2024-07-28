@@ -64,6 +64,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Harinarayan01/dsa_problem/tree/master/0053-maximum-subarray) |
 | [2502-sort-the-people](https://github.com/Harinarayan01/dsa_problem/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -77,4 +78,12 @@
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/Harinarayan01/dsa_problem/tree/master/2502-sort-the-people) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harinarayan01/dsa_problem/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harinarayan01/dsa_problem/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
