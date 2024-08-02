@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harinarayan01/dsa_problem/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/Harinarayan01/dsa_problem/tree/master/0189-rotate-array) |
 | [2502-sort-the-people](https://github.com/Harinarayan01/dsa_problem/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -86,4 +87,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harinarayan01/dsa_problem/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Harinarayan01/dsa_problem/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Harinarayan01/dsa_problem/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
