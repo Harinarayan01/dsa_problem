@@ -66,6 +66,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Harinarayan01/dsa_problem/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Harinarayan01/dsa_problem/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Harinarayan01/dsa_problem/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Harinarayan01/dsa_problem/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Harinarayan01/dsa_problem/tree/master/0287-find-the-duplicate-number) |
 | [2502-sort-the-people](https://github.com/Harinarayan01/dsa_problem/tree/master/2502-sort-the-people) |
@@ -81,6 +82,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Harinarayan01/dsa_problem/tree/master/0075-sort-colors) |
 | [2502-sort-the-people](https://github.com/Harinarayan01/dsa_problem/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -97,6 +99,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Harinarayan01/dsa_problem/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Harinarayan01/dsa_problem/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Harinarayan01/dsa_problem/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
