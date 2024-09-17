@@ -66,6 +66,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Harinarayan01/dsa_problem/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Harinarayan01/dsa_problem/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Harinarayan01/dsa_problem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harinarayan01/dsa_problem/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Harinarayan01/dsa_problem/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Harinarayan01/dsa_problem/tree/master/0287-find-the-duplicate-number) |
@@ -105,6 +106,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Harinarayan01/dsa_problem/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Harinarayan01/dsa_problem/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -134,4 +136,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Harinarayan01/dsa_problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harinarayan01/dsa_problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harinarayan01/dsa_problem/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Harinarayan01/dsa_problem/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
