@@ -107,10 +107,12 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Harinarayan01/dsa_problem/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/Harinarayan01/dsa_problem/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Harinarayan01/dsa_problem/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Harinarayan01/dsa_problem/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Harinarayan01/dsa_problem/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
@@ -124,6 +126,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Harinarayan01/dsa_problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harinarayan01/dsa_problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harinarayan01/dsa_problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Harinarayan01/dsa_problem/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Harinarayan01/dsa_problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harinarayan01/dsa_problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harinarayan01/dsa_problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Harinarayan01/dsa_problem/tree/master/0222-count-complete-tree-nodes) |
 ## Matrix
 |  |
 | ------- |
