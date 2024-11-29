@@ -4,9 +4,10 @@ public:
         vector<int>ans;
         int n=nums.size();
         for(int i=0;i<n;i++){
-            int k=target-nums[i];
+            int k=nums[i];
             for(int j=i+1;j<n;j++){
-                if(nums[j]==k){
+                int sum=k+nums[j];
+                if(sum==target){
                     ans.push_back(i);
                     ans.push_back(j);
                     break;
