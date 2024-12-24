@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harinarayan01/dsa_problem/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Harinarayan01/dsa_problem/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Harinarayan01/dsa_problem/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Harinarayan01/dsa_problem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harinarayan01/dsa_problem/tree/master/0075-sort-colors) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harinarayan01/dsa_problem/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Harinarayan01/dsa_problem/tree/master/0041-first-missing-positive) |
 | [2502-sort-the-people](https://github.com/Harinarayan01/dsa_problem/tree/master/2502-sort-the-people) |
 ## String
 |  |
