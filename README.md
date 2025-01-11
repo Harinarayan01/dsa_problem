@@ -97,11 +97,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harinarayan01/dsa_problem/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/Harinarayan01/dsa_problem/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Harinarayan01/dsa_problem/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Harinarayan01/dsa_problem/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/Harinarayan01/dsa_problem/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,4 +159,12 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Harinarayan01/dsa_problem/tree/master/0783-search-in-a-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Harinarayan01/dsa_problem/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Harinarayan01/dsa_problem/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
