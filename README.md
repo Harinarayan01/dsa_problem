@@ -78,16 +78,19 @@
 | ------- |
 | [0001-two-sum](https://github.com/Harinarayan01/dsa_problem/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Harinarayan01/dsa_problem/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/Harinarayan01/dsa_problem/tree/master/0242-valid-anagram) |
 | [2502-sort-the-people](https://github.com/Harinarayan01/dsa_problem/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Harinarayan01/dsa_problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harinarayan01/dsa_problem/tree/master/0344-reverse-string) |
 | [2502-sort-the-people](https://github.com/Harinarayan01/dsa_problem/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harinarayan01/dsa_problem/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Harinarayan01/dsa_problem/tree/master/0242-valid-anagram) |
 | [2502-sort-the-people](https://github.com/Harinarayan01/dsa_problem/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
